@@ -11,6 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
+  <h1 style="color:red">TEST CI/CD v2</h1>
   <p><a href="tovari.php">Список товаров</a></p>
   <p><a href="cart.php">Корзина</a></p>
   <p><a href="checkout.php">Checkout</a></p>
